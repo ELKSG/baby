@@ -1,13 +1,13 @@
 package com.cykj.mapper;
 
 
-import com.cykj.bean.Menu;
-import com.cykj.bean.User;
-import org.mybatis.spring.annotation.MapperScan;
-import org.springframework.stereotype.Repository;
+        import com.cykj.bean.Menu;
+        import com.cykj.bean.User;
+        import org.mybatis.spring.annotation.MapperScan;
+        import org.springframework.stereotype.Repository;
 
-import java.util.List;
-
+        import java.util.List;
+// 陈子祥sb
 
 @Repository
 
